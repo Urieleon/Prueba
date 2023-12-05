@@ -1,0 +1,36 @@
+.clase1{
+			width:200px;
+			heigth:200px;
+		}
+		.class2{
+			width:50px;
+			heigth:50px;
+		}
+		/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+body{
+	background-image: url("");
+}
+table{
+	text-align:center;
+	background-color:#2596be;
+	ocopacity: 0.95;
+	width:70%;
+}
